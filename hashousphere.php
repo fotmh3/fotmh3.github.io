@@ -1,0 +1,23 @@
+<html><head><title>Friends of the Mole Homepage</title></head>
+<body bgcolor="#079E07" link="#079E07" alink="#079E07" vlink="#079E07"><font face="arial">
+<center><a name="mole2a.gif"><a href="index.php"><img src="mole2a.gif"></a></a><p>
+<font face="Comic Sans MS" size=4>Click on the banner above to go to the Home page.<br><br></font>
+<table border="0"><tr><td width="30%" valign="top"><img src="menu.gif"  usemap=#menu><map name="menu2">
+    <area shape="rect" coords="11,10,103,34"  href="hareline.php">
+    <area shape="rect" coords="136,10,233,33" href="members.php">
+    <area shape="rect" coords="269,10,357,37" href="history.php">
+    <area shape="rect" coords="389,10,499,37" href="statistics.php">
+    <area shape="rect" coords="78,53,177,81"  href="trash.php">
+    <area shape="rect" coords="220,53,311,81" href="hashousphere.php">
+    <area shape="rect" coords="353,53,466,81" href="links.php">
+</map></td>
+
+<td><center><img src="hashasphere5.gif"><p></center>
+
+A Hashousphere is an erogenous zone that comprises differing areas and shapes of landmass with regions of land and water features.  These �spheres of activity� float freely in space with their own atmospheres, life support systems, types of gravity, i.e. sobriety, humour, candidness and the force of its Hashing inhabitants.  It therefore has defined boundaries, and looks like some very similar things found in sci-fi theme scenes painted on album sleeves in the 1970�s for bands such as Yes.  Fortunately, all things are possible in the vastness of the Hash universe, and sometimes Hashouspheres regularly gently collide or move very close by, and the inhabitants get to willingly express an avid interest in the other�s interesting zones.  Unfortunately, the size of a Hashousphere depends very much on a near religious fervour, that centres on a common anatomical phenomenon experienced by Hashers.  This is where the mathematical ratio between their respective arm lengths and the depth of their trouser pockets, i.e. the greater the distance between the tips of the fingers and the bottom of the pockets where the cash is stored, equates to a severe difficulty to reach the available cash, thus reducing the hashers 'spending power', hence the smaller the Hashousphere will be.
+<p>
+We Moleskins can be found running near towns and villages all over East Kent, such as: Adisham, Ashford, Canterbury, Charing, Deal, Dover, Folkestone, Herne Bay, Hythe and Whitstable.  In France and Belgium we hold annual 'Special Event' runs in villages near the towns of Calais, Boulogne, Le Touquet, St. Omer, Brugges and Ostend.</td></tr>
+</table><p>
+<font color="#079E07">.<br><font color="#079E07">.<br><font color="#079E07">.<br>
+<font color="#079E07">.<br>
+</body></html>

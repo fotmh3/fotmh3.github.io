@@ -1,0 +1,51 @@
+<html><head><title>Friends of the Mole Homepage</title></head>
+<body bgcolor="#079E07" link="#079E07" alink="#079E07" vlink="#079E07"><font face="arial">
+    
+<center><a name="mole2a.gif"><a href="index.php"><img src="mole2a.gif"></a><p>
+<font face="Comic Sans MS" size=4>Click on the banner above to go to the Home page.<br></font>
+
+<table border="0" width="100%">
+    
+    
+    
+<tr><td width="15%"><img src="menu.gif"  usemap=#menu>
+    <map name="menu2">
+        <area shape="rect" coords="11,10,103,34"  href="hareline.php">
+        <area shape="rect" coords="136,10,233,33" href="members.php">
+        <area shape="rect" coords="269,10,357,37" href="history.php">
+        <area shape="rect" coords="389,10,499,37" href="statistics.php">
+        <area shape="rect" coords="78,53,177,81"  href="trash.php">
+        <area shape="rect" coords="220,53,311,81" href="hashousphere.php">
+        <area shape="rect" coords="353,53,466,81" href="links.php">
+    </map></td>
+
+
+<td width=10%><font color="#079E07">.</td>
+<td width="75%">
+<img src="text.gif"><br>
+
+Run Picture Albums have been moved to the NOTICE BOARD on the Home Page.<br><br>
+
+<a href="http://myweb.tiscali.co.uk/mashhash/"><font color="navy" size=3>Mash Hash</a><br><p>
+
+<a href="http://www.hastingshhh.co.uk"><font color="navy" size=3>Hastings H3</a><br><p>
+
+<a href="http://www.och3.org.uk/dates.shtml"><font color="navy" size=3>Old Coulsdon H3</a><br><p>
+
+<a href="http://www.bicesterh3.com/hareline1.htm"><font color="navy" size=3>Bicester H3</a><br><p>
+
+<a href="http://www.essexh3.co.uk/hareline.html"><font color="navy" size=3>Essex H3</a><br><p>
+
+<a href="http://www.shepherd-neame.co.uk"><img src="shep.jpg"></a><br><p>
+
+<a href="http://www.stik.biz"><img src="stikbanner.gif"></a><br><p>
+
+<a href="http://www.eurotunnel.com/"><img src="logo_anniv.jpg" alt="Eurotunnel - sponsors of the FotM 777th celebration run in St. Omer"></a>
+
+</td>
+</tr></table>
+
+<font color="#079E07">.<br><font color="#079E07">.<br><font color="#079E07">.<br>
+
+<font color="#079E07">.<br><font color="#079E07">.<br>
+</body></html>
