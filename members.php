@@ -10,7 +10,7 @@ Data from the Members Table is no longer available.</b></font><p>
 <font color="#079E07">.<br><font color='black'>
 
     <map name="menu2">
-        <area shape="rect" coords="11,10,103,34"  href="hareline.php">
+        <area shape="rect" coords="11,10,103,34"  href="/hareline">
         <area shape="rect" coords="136,10,233,33" href="members.php">
         <area shape="rect" coords="269,10,357,37" href="history.php">
         <area shape="rect" coords="389,10,499,37" href="statistics.php">
