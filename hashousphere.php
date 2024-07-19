@@ -4,7 +4,7 @@
 <font face="Comic Sans MS" size=4>Click on the banner above to go to the Home page.<br><br></font>
 <table border="0"><tr><td width="30%" valign="top"><img src="menu.gif"  usemap=#menu><map name="menu2">
     <area shape="rect" coords="11,10,103,34"  href="/hareline">
-    <area shape="rect" coords="136,10,233,33" href="members.php">
+    <area shape="rect" coords="136,10,233,33" href="/members">
     <area shape="rect" coords="269,10,357,37" href="history.php">
     <area shape="rect" coords="389,10,499,37" href="statistics.php">
     <area shape="rect" coords="78,53,177,81"  href="trash.php">
