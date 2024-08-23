@@ -1,6 +1,6 @@
 <html><head><title>Friends of the Mole Homepage</title></head>
 <body bgcolor="#079E07" link="#079E07" alink="#079E07" vlink="#079E07"><font face="arial">
-<center><a name="mole2a.gif"><a href="index.php"><img src="/images/mole2a.gif"></a></a><p>
+<center><a name="mole2a.gif"><a href="/"><img src="/images/mole2a.gif"></a></a><p>
 <font face="Comic Sans MS" size=4>Click on the banner above to go to the Home page.<br></font>
 <center><img src="/images/menu2.gif"  usemap=#menu2>    <map name="menu2">
     <area shape="rect" coords="11,10,103,34"  href="/hareline">
