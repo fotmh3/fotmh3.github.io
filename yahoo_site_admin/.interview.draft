@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profiles>
+  <profile>
+    <vertical>Not sure</vertical>
+    <myBusiness>My Business</myBusiness>
+    <physicalAddress>
+      <address1/>
+      <address2/>
+      <city/>
+      <state/>
+      <postalCode/>
+      <country>United States</country>
+    </physicalAddress>
+    <mailingAddress>
+      <address1/>
+      <address2/>
+      <city/>
+      <state/>
+      <postalCode/>
+      <country/>
+    </mailingAddress>
+    <phone/>
+    <fax/>
+    <mobilePhone/>
+    <emailAddress/>
+  </profile>
+</profiles>
